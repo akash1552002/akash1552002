@@ -1,5 +1,6 @@
 
 
+ <img align="right" alt="coding" width="400" src"[https://i.pinimg.com/originals/5a/64/63/5a6463e51b284bfcbc34869dc72cf0cd.gif](https://i.pinimg.com/originals/5a/64/63/5a6463e51b284bfcbc34869dc72cf0cd.gif)">
 <h1 align="center">Hi 👋, I'm Akash Prajapati</h1>
 <h3 align="center">A passionate frontend developer from Mumbai, India</h3>
  <img align="right" alt="coding" width="400" src"[https://i.pinimg.com/originals/5a/64/63/5a6463e51b284bfcbc34869dc72cf0cd.gif](https://i.pinimg.com/originals/5a/64/63/5a6463e51b284bfcbc34869dc72cf0cd.gif)">
