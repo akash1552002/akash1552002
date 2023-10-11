@@ -1,8 +1,10 @@
 [![MasterHead](https://i.pinimg.com/originals/2d/44/8a/2d448ad092ab29dbc0eae95ef257c12b.gif)]
+<img align="right" alt="coding" width="400" src"[https://i.pinimg.com/originals/5a/64/63/5a6463e51b284bfcbc34869dc72cf0cd.gif](https://i.pinimg.com/originals/5a/64/63/5a6463e51b284bfcbc34869dc72cf0cd.gif)">
+
 <h1 align="center">Hi 👋, I'm Akash Prajapati</h1>
 <h3 align="center">A passionate frontend developer from Mumbai, India</h3>
-<img align="right" alt="coding" width="400" src"[https://i.pinimg.com/originals/5a/64/63/5a6463e51b284bfcbc34869dc72cf0cd.gif](https://i.pinimg.com/originals/5a/64/63/5a6463e51b284bfcbc34869dc72cf0cd.gif)">
-- 🌱 I’m currently learning **Frontend Technologies**
+<!-- <img align="right" alt="coding" width="400" src"[https://i.pinimg.com/originals/5a/64/63/5a6463e51b284bfcbc34869dc72cf0cd.gif](https://i.pinimg.com/originals/5a/64/63/5a6463e51b284bfcbc34869dc72cf0cd.gif)">
+- 🌱 I’m currently learning **Frontend Technologies** -->
 
 - 📫 How to reach me **akashprajapati4325@gmail.com**
 
